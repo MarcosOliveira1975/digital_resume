@@ -7,3 +7,5 @@ Tecnologias e recursos utilizados:
 - JavaScript
 - Git / Github
 - Responsividade
+
+Clique no link para acessar o currículo: https://marcosoliveira1975.github.io/resume/
