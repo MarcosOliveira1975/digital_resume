@@ -8,4 +8,4 @@ Tecnologias e recursos utilizados:
 - Git / Github
 - Responsividade
 
-Clique no link para acessar o currículo: https://marcosoliveira1975.github.io/resume/
+Clique no link para acessar o currículo: https://marcosoliveira1975.github.io/digital_resume/
